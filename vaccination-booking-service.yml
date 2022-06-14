@@ -4,7 +4,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     password: student@123
-    url: jdbc:mysql://localhost:3306/vaccinationsystem?useSSL=false
+    url: jdbc:mysql://localhost:3306/vbsfinal?useSSL=false
     username: student
   jpa:
     hibernate:
